@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-A new Flutter project.
+Its a simple game that is made by Flutter and Dart.
 
 ## Getting Started
 
